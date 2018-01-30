@@ -9,6 +9,10 @@ https://etcher.io/
 
 ### Boot the PI with a screen and a keyboard attached
 
+### Log on to the Rasbian OS
+Username: pi
+Password: raspberry
+
 ### Set static IP
 sudo nano /etc/dhcpcd.conf 
 
