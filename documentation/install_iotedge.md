@@ -64,6 +64,6 @@ sudo iotedgectl start
 
 ## Done!
 You can verify the setup by checking for a running docker container
-´´´
+```
 sudo docker ps
-´´´
+```
